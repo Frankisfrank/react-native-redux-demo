@@ -25,7 +25,7 @@ React Native <br/>
 npm install -g react-native-cli
 
 Expo Client (for physical devices) <br/>
-https://itunes.apple.com/us/app/expo-client/id982107779
+https://itunes.apple.com/us/app/expo-client/id982107779 <br/>
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_GB
 
 Recommended IDE <br/>
