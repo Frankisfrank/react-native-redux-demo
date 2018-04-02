@@ -65,7 +65,7 @@ Run project on simulators <br/>
 IOS <br/>
 react-native run-ios <br/>
 Android (Run android emulator in prior) <br/>
-react-native run-android <br/>
+react-native run-android (or npm run android)<br/>
 
 ## Author
 
