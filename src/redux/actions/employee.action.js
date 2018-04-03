@@ -17,7 +17,7 @@ export function addEmployee(name, employees) {
         name: name
     }
     return {
-        type: 'ADD_EMPLOYEE',
+        type: ADD_EMPLOYEE,
         employee
     };
 }
@@ -27,7 +27,7 @@ export function addEmployee(name, employees) {
  */
 export function deleteEmployee(id) {
     return {
-        type: 'DELETE_EMPLOYEE',
+        type: DELETE_EMPLOYEE,
         id
     };
 }
