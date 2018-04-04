@@ -51,6 +51,8 @@ e.g. cd react-native-redux-demo
 Install dependencies <br/>
 npm install
 
+Or execute create-react-native-app project_name, copy src, App.js, package.json to root directory of the newly created project <br/>
+
 ## Running the tests
 
 Start packager <br/>
